@@ -32,5 +32,12 @@ Key imsights were visualized using Power BI library
 - Attrition Rate
 - Average Age
 - Attrition count by department
-- 
+- Attrition count by educational field
+- Attrition count by gender
+- Attrition based on age, groups and gender
+  - Attrition under age 25
+  - Attrition of 25 - 34
+  - Attrition of 35 - 44
+  - Attrition of 44 - 55
+  - Attrition over 55
 - 
