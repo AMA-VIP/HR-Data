@@ -50,4 +50,7 @@ N/B: The above record shows that attrition level was found the most between age 
 
 ![HR DATA  IN PROJECT 11_9_2024 12_53_22 PM](https://github.com/user-attachments/assets/f1b72f03-d82c-4d5f-8043-edf57d0263af)
 
-  
+## TOOLS 
+- Power BI for visualization and analysis
+   
+## PROJECT FILES 
