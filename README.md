@@ -23,3 +23,14 @@ Employee attrition most times is a critical concern in most organization or busi
 ## EXPLORATORY DATA ANALYSIS (EDA)
 - I analysed the distribution of employees who have left verses current employess
 - I visualized trends using Donut chart, clustered column chart, pie chart, slicer of filter, and matrix
+
+## DATA VISUALIZATION
+Key imsights were visualized using Power BI library 
+- Total number of employee
+- Total number of attrition
+- Total number of current emloyee
+- Attrition Rate
+- Average Age
+- Attrition count by department
+- 
+- 
