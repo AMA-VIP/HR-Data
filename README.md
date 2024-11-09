@@ -1,3 +1,4 @@
+[HR Data.xlsx](https://github.com/user-attachments/files/17688470/HR.Data.xlsx)
 # HR_Data
 
 ## PROJECT OVERVIEW
@@ -53,4 +54,7 @@ N/B: The above record shows that attrition level was found the most between age 
 ## TOOLS 
 - Power BI for visualization and analysis
    
-## PROJECT FILES 
+## PROJECT
+[HR Data.xlsx](https://github.com/user-attachments/files/17688471/HR.Data.xlsx)
+
+
