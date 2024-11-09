@@ -26,13 +26,15 @@ Employee attrition most times is a critical concern in most organization or busi
 
 ## DATA VISUALIZATION
 Key insights were visualized using Power BI library 
-- Total Number of Employee: I checked out for the total number of employee using a card chart (Q/A chart was also able to achieve that too, but I observed that filters can not be implemented using the the Q/A chart)
+- Total Number of Employee: I checked out for the total number of employee using a card chart (Q/A chart was also able to achieve that too, but I observed that filters can not be 
+  implemented using the the Q/A chart)
 - Total Number of Attrition: I also looked out for the number of persons that have left the organization using Card chart
 - Total Number of Current Emloyee: I looked out for the total number of current employee using card chart
-- Attrition Rate: Attrition rate was also necessary to be checked to determine is heathy or not and also to determine turnoever
+- Attrition Rate: Attrition rate was also necessary to be checked to determine if the company is heathy or not and also to determine turnoever
 - Average Age: This was determine to know the average age of employees and a Card chart was used for visualization 
-- Attrition Count by Department
-- Attrition Count by Educational Field
+- Attrition Count by Department: This was visualized to find out the department with the highest attrition level, Donut chart  was used for visualization, which showed that R&D have the 
+  higest attrition rate with 20 total number of attrition. 
+- Attrition Count by Educational Field: This was visualized using a pie chart. The total number of attrition was from the
 - Attrition Count by Gender
 - Attrition based on Age groups and Gender
   - Attrition under age 25
