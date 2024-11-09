@@ -54,7 +54,13 @@ N/B: The above record shows that attrition level was found the most between age 
 ## TOOLS 
 - Power BI for visualization and analysis
    
-## PROJECT
+## PROJECT FILE
 [HR Data.xlsx](https://github.com/user-attachments/files/17688471/HR.Data.xlsx)
 
+## KEY INSIGHTS
+- Employees in R&D have the highest attrition rate
+- Younger male employees are more likely to leave the company
 
+
+## ACKNOWLEDEMENT
+Special thanks to the incubator hub for releasing the dataset used for analysis.
