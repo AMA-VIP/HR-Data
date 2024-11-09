@@ -15,4 +15,8 @@ Employee attrition most times is a critical concern in most organization or busi
    - Attririon (whether the employee left the organization or not)
    - OvertTome, Work Life Balance
 
-## 
+## DATA CLEANING AND PREPROCESSING
+- Dataset was scanned for duplicte and missing values
+- I converted the first row to headings becaust the headings were written columns instead of a proper heading title
+- I created new features such as Attrition count, Age sort, job satisfaction rating using conditional column
+- 
