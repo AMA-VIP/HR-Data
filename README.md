@@ -34,7 +34,8 @@ Key insights were visualized using Power BI library
 - Average Age: This was determine to know the average age of employees and a Card chart was used for visualization 
 - Attrition Count by Department: This was visualized to find out the department with the highest attrition level, Donut chart  was used for visualization, which showed that R&D have the 
   higest attrition rate with 20 total number of attrition. 
-- Attrition Count by Educational Field: This was visualized using a pie chart. The total number of attrition was from the
+- Attrition Count by Educational Field: This was visualized using a pie chart. The total number of attrition by educational feild was from the is as follow; life sciences > medical > 
+  marketing > technical degree > other > human resources 
 - Attrition Count by Gender
 - Attrition based on Age groups and Gender
   - Attrition under age 25
