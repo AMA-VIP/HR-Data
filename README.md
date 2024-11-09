@@ -37,10 +37,13 @@ Key insights were visualized using Power BI library
 - Attrition Count by Educational Field: This was visualized using a pie chart. The total number of attrition by educational feild was from the is as follow; life sciences > medical > 
   marketing > technical degree > other > human resources 
 - Attrition Count by Gender: Attrition was checked by gender using a pie chart, with the male gender having the higest attrition rate (150) and the female with the attrition rate of 87
-- Attrition based on Age groups and Gender: Attrition was also checked by age group and gender to know the age group of of the differnt gender that left the company the most.
-  - Attrition under age 25
-  - Attrition of 25 - 34
-  - Attrition of 35 - 44
-  - Attrition of 44 - 55
-  - Attrition over 55
+- Attrition based on Age groups and Gender: Attrition was also checked by age group and gender to know the age group of of the differnt gender that left the company the most. Below is 
+  the record
+  - Attrition under age 25 (18 female and 20 male)
+  - Attrition of 25 - 34 (43 female and 69 male)
+  - Attrition of 35 - 44 (37 male and 14 female)
+  - Attrition of 44 - 55 (9 female and 16 male)
+  - Attrition over 55 (8 male and 3 female)
+N/B: The above record shows that attrion level was found the most between age 25 - 34
+
 - 
