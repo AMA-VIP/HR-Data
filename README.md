@@ -7,3 +7,12 @@ Employee attrition most times is a critical concern in most organization or busi
 - Analyse employee demographics, job roles, and satisfaction levels to identify trends to attrition
 - Determine which factor have the most significant impact on employee turnover.
 - Provide actionable insight to help HR department improve employee retention strategies
+
+## DATA DESCRIPTION 
+- Datasets: The datasets includes various attribute of employee such as:
+   - EmployeeID, Age, Gender, Department, Job role
+   - Job Satisfaction
+   - Attririon (whether the employee left the organization or not)
+   - OvertTome, Work Life Balance
+
+## 
