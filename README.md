@@ -26,11 +26,11 @@ Employee attrition most times is a critical concern in most organization or busi
 
 ## DATA VISUALIZATION
 Key insights were visualized using Power BI library 
-- Total Number of Employee
-- Total Number of Attrition
-- Total Number of Current Emloyee
-- Attrition Rate
-- Average Age
+- Total Number of Employee: I checked out for the total number of employee using a card chart (Q/A chart was also able to achieve that too, but I observed that filters can not be implemented using the the Q/A chart)
+- Total Number of Attrition: I also looked out for the number of persons that have left the organization using Card chart
+- Total Number of Current Emloyee: I looked out for the total number of current employee using card chart
+- Attrition Rate: Attrition rate was also necessary to be checked to determine is heathy or not and also to determine turnoever
+- Average Age: This was determine to know the average age of employees and a Card chart was used for visualization 
 - Attrition Count by Department
 - Attrition Count by Educational Field
 - Attrition Count by Gender
