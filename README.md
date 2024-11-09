@@ -19,4 +19,7 @@ Employee attrition most times is a critical concern in most organization or busi
 - Dataset was scanned for duplicte and missing values
 - I converted the first row to headings becaust the headings were written columns instead of a proper heading title
 - I created new features such as Attrition count, Age sort, job satisfaction rating using conditional column
-- 
+
+## EXPLORATORY DATA ANALYSIS (EDA)
+- I analysed the distribution of employees who have left verses current employess
+- I visualized trends using Donut chart, clustered column chart, pie chart, slicer of filter, and matrix
