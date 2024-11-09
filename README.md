@@ -28,10 +28,11 @@ Employee attrition most times is a critical concern in most organization or busi
 Key insights were visualized using Power BI library 
 - Total Number of Employee: I checked out for the total number of employee using a card chart (Q/A chart was also able to achieve that too, but I observed that filters can not be 
   implemented using the the Q/A chart)
-- Total Number of Attrition: I also looked out for the number of persons that have left the organization using Card chart
-- Total Number of Current Emloyee: I looked out for the total number of current employee using card chart
-- Attrition Rate: Attrition rate was also necessary to be checked to determine if the company is heathy or not and also to determine turnoever
-- Average Age: This was determine to know the average age of employees and a Card chart was used for visualization 
+- Total Number of Attrition: I also looked out for the number of persons that have left the organization using Card chart, which shows 237 persons already left the organization
+- Total Number of Current Emloyee: I looked out for the total number of current employee using card chart, which shows that 1233 persons are currently working with the organization
+- Attrition Rate: Attrition rate was also necessary to be checked to determine if the company is heathy or not and also to determine turnoever. from the above findings attrition rate is 
+  16%
+- Average Age: This was determine to know the average age of employees and a Card chart was used for visualization, showing 37 years as the average years of workers 
 - Attrition Count by Department: This was visualized to find out the department with the highest attrition level, Donut chart  was used for visualization, which showed that R&D have the 
   higest attrition rate with 20 total number of attrition. 
 - Attrition Count by Educational Field: This was visualized using a pie chart. The total number of attrition by educational feild was from the is as follow; life sciences > medical > 
@@ -45,6 +46,6 @@ Key insights were visualized using Power BI library
   - Attrition of 44 - 55 (9 female and 16 male)
   - Attrition over 55 (8 male and 3 female)
     
-N/B: The above record shows that attrion level was found the most between age 25 - 34
+N/B: The above record shows that attrition level was found the most between age 25 - 34
 
   
