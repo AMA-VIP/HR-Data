@@ -25,16 +25,16 @@ Employee attrition most times is a critical concern in most organization or busi
 - I visualized trends using Donut chart, clustered column chart, pie chart, slicer of filter, and matrix
 
 ## DATA VISUALIZATION
-Key imsights were visualized using Power BI library 
-- Total number of employee
-- Total number of attrition
-- Total number of current emloyee
+Key insights were visualized using Power BI library 
+- Total Number of Employee
+- Total Number of Attrition
+- Total Number of Current Emloyee
 - Attrition Rate
 - Average Age
-- Attrition count by department
-- Attrition count by educational field
-- Attrition count by gender
-- Attrition based on age, groups and gender
+- Attrition Count by Department
+- Attrition Count by Educational Field
+- Attrition Count by Gender
+- Attrition based on Age groups and Gender
   - Attrition under age 25
   - Attrition of 25 - 34
   - Attrition of 35 - 44
