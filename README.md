@@ -44,6 +44,7 @@ Key insights were visualized using Power BI library
   - Attrition of 35 - 44 (37 male and 14 female)
   - Attrition of 44 - 55 (9 female and 16 male)
   - Attrition over 55 (8 male and 3 female)
+    
 N/B: The above record shows that attrion level was found the most between age 25 - 34
 
-- 
+  
